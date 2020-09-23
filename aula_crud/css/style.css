@@ -1,0 +1,13 @@
+.deleteButton {
+  color: white;
+  font-weight: bold;
+  background-color: red;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}

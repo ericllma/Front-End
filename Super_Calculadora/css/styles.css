@@ -1,0 +1,21 @@
+#a {
+  margin-right: 40px;
+}
+
+body {
+  margin: 20px;
+  text-align: center;
+}
+
+label {
+  margin-left: 10px;
+}
+
+#calculations {
+  text-align: justify;
+  margin-left: 320px;
+}
+
+input {
+  margin: 10px;
+}

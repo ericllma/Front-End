@@ -1,0 +1,72 @@
+body {
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 20px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+div {
+  display: block;
+}
+
+ul,
+li {
+  line-height: 20px;
+}
+
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  display: table;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
+  color: rgb(2, 34, 11);
+  background-color: #ddd;
+}
+
+td {
+  display: table-cell;
+}
+
+.dados-pessoais {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#perfil {
+  border-radius: 90px;
+  border: 1px solid black;
+  margin-right: 50px;
+  width: 11.5rem;
+}
